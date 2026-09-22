@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "onnxt",
+			"path": "../../../onnxt"
+		},
+		{
+			"name": "models",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
